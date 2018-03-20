@@ -1,6 +1,6 @@
 # Homework-Symfony-Git
 
-În acest repozitoriu veți face submit la tema pentru acasă la lecția **[Code versioning principles - GIT](https://github.com/P5CHI-Web-Academy/Prezentari/tree/master/Symfony/03.%20Code%20versioning%20principles%20-%20GIT)** animată de *Bînzari Marin*.
+În acest repozitoriu veți face submit la tema pentru acasă la lecția **[Code versioning principles - GIT](https://github.com/P5CHI-Web-Academy/Prezentari/tree/master/Symfony/03.%20Code%20versioning%20principles%20-%20GIT)** animată de *[Bînzari Marin](https://github.com/SpartakusMd)*.
 
 
 ## Homework
