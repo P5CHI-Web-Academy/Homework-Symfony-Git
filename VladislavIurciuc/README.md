@@ -9,6 +9,7 @@ Learn Applied Informatics in USM from 2016.
 - PHP
 - C/C++
 - Prolog
+
 *Technologies:*
 - jQuery
 - Git
