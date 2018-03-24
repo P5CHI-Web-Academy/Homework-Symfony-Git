@@ -1,0 +1,1 @@
+Salut, ma numesc Dumitrita Garaba, am 21 ani si sunt studenta la Universitatea Tehnica a Moldovei, Tehnologii Informationale.
